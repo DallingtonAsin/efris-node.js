@@ -1,0 +1,25 @@
+{
+  "name": "pivosoft-efris-api",
+  "private": false,
+  "version": "1.0.0",
+  "description": "This package provides convenient access to the EFRIS API from applications written for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DallingtonAsin/efris-node.js.git"
+  },
+  "keywords": [
+    "PivoSoft",
+    "EFRIS",
+    "node.js"
+  ],
+  "author": "Dallington Asingwire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DallingtonAsin/efris-node.js/issues"
+  },
+  "homepage": "https://github.com/DallingtonAsin/efris-node.js#readme"
+}
